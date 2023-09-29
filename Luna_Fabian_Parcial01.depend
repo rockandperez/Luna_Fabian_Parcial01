@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1695602778 source:f:\mi unidad\utn programación - fabian luna\2do cuatrimestre 2023\programación ii - 2c 2023\parcial 1\luna_fabian_parcial01\viajes.cpp
+	<iostream>
+	"Viajes.h"
+
+1695602477 f:\mi unidad\utn programación - fabian luna\2do cuatrimestre 2023\programación ii - 2c 2023\parcial 1\luna_fabian_parcial01\viajes.h
+
+1695744236 source:f:\mi unidad\utn programación - fabian luna\2do cuatrimestre 2023\programación ii - 2c 2023\parcial 1\luna_fabian_parcial01\main.cpp
+	<iostream>
+	<locale.h>
+	"menu.h"
+	"Funciones.h"
+
+1695744236 f:\mi unidad\utn programación - fabian luna\2do cuatrimestre 2023\programación ii - 2c 2023\parcial 1\luna_fabian_parcial01\menu.h
+	<iostream>
+	"Funciones.h"
+
+1695744315 f:\mi unidad\utn programación - fabian luna\2do cuatrimestre 2023\programación ii - 2c 2023\parcial 1\luna_fabian_parcial01\funciones.h
+	"string.h"
+	<cstdio>
+	<iostream>
+
+1695956391 source:c:\users\fabu\desktop\github_repo\luna_fabian_parcial01_prog2\main.cpp
+	<iostream>
+	<windows.h>
+	<locale.h>
+	"Funciones.h"
+
+1695744236 c:\users\fabu\desktop\github_repo\luna_fabian_parcial01_prog2\menu.h
+	<iostream>
+	"Funciones.h"
+
+1695960507 c:\users\fabu\desktop\github_repo\luna_fabian_parcial01_prog2\funciones.h
+	<string.h>
+	<cstdio>
+	<iostream>
+	"Funciones.h"
+	"Tarjetas.h"
+	"Viajes.h"
+
+1695858355 source:c:\users\fabu\desktop\github_repo\luna_fabian_parcial01_prog2\viajes.cpp
+	<iostream>
+	"Viajes.h"
+
+1695602477 c:\users\fabu\desktop\github_repo\luna_fabian_parcial01_prog2\viajes.h
+
+1695597321 c:\users\fabu\desktop\github_repo\luna_fabian_parcial01_prog2\tarjetas.h
+
